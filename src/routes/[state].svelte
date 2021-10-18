@@ -14,7 +14,7 @@
   import TableContainer from "../components/TableContainer.svelte";
 </script>
 
-<svelte:head>
+<svelte:head> 
   <title>Covid-19 Tracker</title>
 </svelte:head>
 
